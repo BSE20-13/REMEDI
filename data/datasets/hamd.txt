@@ -1,0 +1,103 @@
+question 1. DEPRESSED MOOD (sadness, hopeless, helpless, worthless)
+answer 1.1. Absent
+answer 1.2. These feeling states indicated only on questioning.
+answer 1.3. These feeling states spontaneously reported verbally
+answer 1.4. Communicates feeling states non-verbally, i.e. through facial expression, posture, voice and tendency to weep.
+answer 1.5. User reports virtually only these feeling states in his/her spontaneous verbal and non-verbal communication.
+
+question 2. FEELINGS OF GUILT
+answer 2.1. Absent.
+answer 2.2. Self reproach, feels he/she has let people down
+answer 2.3. Ideas of guilt or rumination over past errors or sinful deeds.
+answer 2.4. Present illness is a punishment. Delusions of guilt.
+answer 2.5. Hears accusatory or denunciatory voices and/or experiences threatening visual hallucinations.
+
+question 3. SUICIDE
+answer 3.1. Absent.
+answer 3.2. Feels life is not worth living
+answer 3.3. Wishes he/she were dead or any thoughts of possible death to self.
+answer 3.4. Ideas or gestures of suicide.
+answer 3.5. Attempts at suicide
+
+question 4. INSOMNIA: EARLY IN THE NIGHT
+answer 4.1. No difficulty falling asleep.
+answer 4.2. Complains of occasional difficulty falling asleep, i.e. more than 1/2 hour
+answer 4.3. Complains of nightly difficulty falling asleep.
+
+question 5. INSOMNIA: MIDDLE OF THE NIGHT
+answer 5.1. No difficulty.
+answer 5.2. User complains of being restless and disturbed during the night.
+answer 5.3. Waking during the night - any getting out of bed rates 2 (except for purposes of voiding)
+
+question 6. INSOMNIA: EARLY HOURS OF THE MORNING
+answer 6.1. No difficulty
+answer 6.2. Waking in early hours of the morning but goes back to sleep.
+answer 6.3. Unable to fall asleep again if he/she gets out of bed.
+
+question7. WORK AND ACTIVITIES
+answer 7.1.  No difficulty.
+answer 7.7.  Thoughts and feelings of incapacity, fatigue or weakness related to activities, work or hobbies.
+answer 7.3.  Loss of interest in activity, hobbies or work - either directly reported by the patient or indirect in listlessness, indecision and vacillation (feels he/she has to push self to work or activities).
+answer 7.3.  Decrease in actual time spent in activities or decrease in productivity. Rate 3 if the patient does not spend at least three hours a day in activities (job or hobbies) excluding routine chores.
+answer 7.4.  Stopped working because of present illness. Rate 4 if user engages in no activities except routine chores,or if patient fails to perform routine chores unassisted.
+
+question 8. RETARDATION (slowness of thought and speech, impaired ability to concentrate, decreased motor activity)
+answer 8.1. Normal speech and thought.
+answer 8.2. Slight retardation during the interview.
+answer 8.3. Obvious retardation during the interview.
+answer 8.4. Interview difficult.
+answer 8.5. Complete stupor.
+
+question 9. AGITATION
+answer 9.1. None.
+answer 9.2. Fidgetiness.
+answer 9.3. Playing with hands, hair, etc.
+answer 9.4. Moving about, can't sit still.
+answer 9.5. Hand wringing, nail biting, hair-pulling, biting of lips.
+
+question 10. ANXIETY PSYCHIC
+answer 10.1. No difficulty.
+answer 10.2. Subjective tension and irritability.
+answer 10.3. Worrying about minor matters.
+answer 10.4. Apprehensive attitude apparent in face or speech.
+answer 10.5. Fears expressed without questioning
+
+question 11. ANXIETY SOMATIC (physiological concomitants of anxiety) such as: gastro-intestinal - dry mouth, wind, indigestion, diarrhea, cramps, belching cardio-vascular - palpitations, headaches respiratory - hyperventilation, sighing urinary frequency sweating
+answer 11.1. Absent.
+answer 11.2. Mild.
+answer 11.3. Moderate.
+answer 11.4. Severe.
+answer 11.5. Incapacitating.
+
+question 12. SOMATIC SYMPTOMS GASTRO-INTESTINAL
+answer 12.1. None.
+answer 12.2. Loss of appetite but eating without staff encouragement. Heavy feelings in abdomen.
+answer 12.3. Difficulty eating without staff urging. Requests or requires laxatives or medication for bowels or medication for gastro-intestinal symptoms.
+
+question 13. GENERAL SOMATIC SYMPTOMS
+answer 13.1. None.
+answer 13.2. Heaviness in limbs, back or head. Backaches, headaches, muscle aches. Loss of energy and fatigability.
+answer 13.3. Any clear-cut symptom rates 2.
+
+question 14. GENITAL SYMPTOMS (symptoms such as loss of libido,menstrual disturbances)
+answer 14.1. Absent.
+answer 14.2. Mild.
+answer 14.3. Severe.
+
+question 15. HYPOCHONDRIASIS
+answer 15.1. Not present.
+answer 15.2. Self-absorption (bodily).
+answer 15.3. Preoccupation with health.
+answer 15.4. Frequent complaints, requests for help, etc.
+answer 15.5. Hypochondriacal delusions.
+
+question 16. LOSS OF WEIGHT
+answer 16.1. No weight loss.
+answer 16.2. Probable weight present illness.
+answer 16.3. Definite (according to patient) weight in week.
+answer 16.4. Not assessed.
+
+question 17. INSIGHT
+answer 17.1. Acknowledges being depressed and ill.
+answer 17.2. Acknowledges illness but attributes cause to bad food,climate, overwork, virus, need for rest, etc.
+answer 17.3. Denies being ill at all.
